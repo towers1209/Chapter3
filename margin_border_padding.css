@@ -1,0 +1,22 @@
+body {
+	background: linen;
+	width: 500px;
+	margin: 200px auto;
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+}
+
+div {
+	border: 5px solid maroon;
+	text-align: center;
+	padding: 5px;
+}
+
+p {
+	/* color: gray; */
+	border: 2px dashed blue;
+	padding: 10px;
+}
